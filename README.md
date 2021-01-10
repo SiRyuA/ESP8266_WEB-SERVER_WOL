@@ -4,6 +4,12 @@
 ## 기능
  * 웹서버 접속 정보 바탕으로 WOL 매직 패킷 전송
  
+## 동작 개념도
+![동작개념도](./img/diagram.png)
+
+## 안드로이드 앱
+![안드로이드 앱](./img/android_app.jpg) 
+ 
 ## 사용한 아두이노 라이브러리
  * [WakeOnLan](https://github.com/a7md0/WakeOnLan, "GitHub")
  * [base64](https://github.com/a7md0/WakeOnLan, "GitHub")
@@ -26,7 +32,7 @@ const int     TOKEN_MAX_SIZE = 256;                 // 주고 받을 토큰 값 
 ```
 
 ## 자세한 설명은 블로그 참고 부탁드립니다.
- * [ESP8266 WebServer Wol Post](https://brunch.co.kr/@searphiel9,"Kakao Brunch")
+ * [ESP8266 WebServer Wol Post](https://brunch.co.kr/@searphiel9/321,"Kakao Brunch")
 
 <br>
 
@@ -38,7 +44,13 @@ const int     TOKEN_MAX_SIZE = 256;                 // 주고 받을 토큰 값 
 
 ## Function
  * WOL magic packet transmission based on web server access information
- 
+
+## Process Diagram
+![Diagram](./img/diagram.png)
+
+## Android App
+![Android App](./img/android_app.jpg) 
+
 ## Arduino library used
  * [WakeOnLan](https://github.com/a7md0/WakeOnLan, "GitHub")
  * [base64](https://github.com/a7md0/WakeOnLan, "GitHub")
@@ -61,8 +73,7 @@ const int     TOKEN_MAX_SIZE = 256;                 // The maximum size of the t
 ```
 
 ## Please refer to the blog for detailed explanation.
- * [ESP8266 WebServer Wol Post](https://brunch.co.kr/@searphiel9,"Kakao Brunch")
-
+ * [ESP8266 WebServer Wol Post](https://brunch.co.kr/@searphiel9/321,"Kakao Brunch") (Korean)
 
 <br>
 
