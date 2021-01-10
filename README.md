@@ -32,7 +32,7 @@ const int     TOKEN_MAX_SIZE = 256;                 // 주고 받을 토큰 값 
 ```
 
 ## 자세한 설명은 블로그 참고 부탁드립니다.
- * [ESP8266 WebServer Wol Post](https://brunch.co.kr/@searphiel9/321,"Kakao Brunch")
+ * [ESP8266 웹서버 및 WOL 포스트](https://brunch.co.kr/@searphiel9/321,"Kakao Brunch")
 
 <br>
 
@@ -73,7 +73,7 @@ const int     TOKEN_MAX_SIZE = 256;                 // The maximum size of the t
 ```
 
 ## Please refer to the blog for detailed explanation.
- * [ESP8266 WebServer Wol Post](https://brunch.co.kr/@searphiel9/321,"Kakao Brunch") (Korean)
+ * [ESP8266 WebServer & WOL Post](https://brunch.co.kr/@searphiel9/321,"Kakao Brunch") - Korean
 
 <br>
 
