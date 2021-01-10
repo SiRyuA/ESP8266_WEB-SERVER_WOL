@@ -11,8 +11,8 @@
 ![안드로이드 앱](./img/android_app.jpg) 
  
 ## 사용한 아두이노 라이브러리
- * [WakeOnLan](https://github.com/a7md0/WakeOnLan, "GitHub")
- * [base64](https://github.com/a7md0/WakeOnLan, "GitHub")
+ * [WakeOnLan](https://github.com/a7md0/WakeOnLan)
+ * [base64](https://github.com/a7md0/WakeOnLan)
 
 ## 사용 시 수정이 필요로 한 코드
 ```
@@ -32,7 +32,7 @@ const int     TOKEN_MAX_SIZE = 256;                 // 주고 받을 토큰 값 
 ```
 
 ## 자세한 설명은 블로그 참고 부탁드립니다.
- * [ESP8266 웹서버 및 WOL 포스트](https://brunch.co.kr/@searphiel9/321,"KakaoBrunch")
+ * [ESP8266 웹서버 및 WOL 포스트](https://brunch.co.kr/@searphiel9/321)
 
 <br>
 
@@ -52,8 +52,8 @@ const int     TOKEN_MAX_SIZE = 256;                 // 주고 받을 토큰 값 
 ![Android App](./img/android_app.jpg) 
 
 ## Arduino library used
- * [WakeOnLan](https://github.com/a7md0/WakeOnLan, "GitHub")
- * [base64](https://github.com/a7md0/WakeOnLan, "GitHub")
+ * [WakeOnLan](https://github.com/a7md0/WakeOnLan)
+ * [base64](https://github.com/a7md0/WakeOnLan)
 
 ## Code requiring modification when using
 ```
@@ -73,7 +73,7 @@ const int     TOKEN_MAX_SIZE = 256;                 // The maximum size of the t
 ```
 
 ## Please refer to the blog for detailed explanation.
- * [ESP8266 WebServer & WOL Post](https://brunch.co.kr/@searphiel9/321,"KakaoBrunch") - Korean
+ * [ESP8266 WebServer & WOL Post](https://brunch.co.kr/@searphiel9/321) - Korean
 
 <br>
 
