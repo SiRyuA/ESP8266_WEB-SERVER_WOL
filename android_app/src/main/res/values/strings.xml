@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ESP8266 Web-Server WoL</string>
+    <string name="input_url">Web-Server URL(or IP):Port</string>
+    <string name="input_mac">00:00:00:00:00:00</string>
+    <string name="input_key">KEY value specified</string>
+    <string name="input_name">Device name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">yes</string>
+    <string name="ok">Ok</string>
+    <string name="no">No</string>
+    <string name="remove">Remove</string>
+    <string name="itemcontrol_question">Modified or Remove the WoL entry?</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="wol_packet">WoL Packet</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="url">URL</string>
+    <string name="path">Path</string>
+    <string name="mac">MAC</string>
+    <string name="key">KEY</string>
+    <string name="checkitems">Please fill in the blank items.</string>
+    <string name="checkmac">Please enter the correct MAC Address.</string>
+    <string name="checkkey">Please enter the correct KEY Value.</string>
+    <string name="modified">Modified</string>
+</resources>

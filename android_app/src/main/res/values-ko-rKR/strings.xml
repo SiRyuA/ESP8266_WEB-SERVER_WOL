@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ESP8266 Web-Server WoL</string>
+    <string name="input_url">웹 서버 주소(또는 IP):포트</string>
+    <string name="input_mac">00:00:00:00:00:00</string>
+    <string name="input_key">지정해둔 KEY 값</string>
+    <string name="input_name">장치 이름</string>
+    <string name="add">추가</string>
+    <string name="cancel">취소</string>
+    <string name="yes">예</string>
+    <string name="ok">예</string>
+    <string name="no">아니요</string>
+    <string name="remove">삭제</string>
+    <string name="itemcontrol_question">WoL 항목을 수정 또는 삭제하시겠습니까?</string>
+    <string name="success">성공</string>
+    <string name="failed">실패</string>
+    <string name="wol_packet">WoL 패킷</string>
+    <string name="send">전송</string>
+    <string name="name">이름</string>
+    <string name="url">주소</string>
+    <string name="path">경로</string>
+    <string name="mac">MAC</string>
+    <string name="key">KEY</string>
+    <string name="checkitems">빈 항목을 채워주세요.</string>
+    <string name="checkmac">올바른 MAC 주소를 입력해주세요.</string>
+    <string name="checkkey">올바른 KEY 값을 입력해주세요.</string>
+    <string name="modified">수정</string>
+</resources>
